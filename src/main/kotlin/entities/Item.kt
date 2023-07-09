@@ -1,3 +1,5 @@
+package entities
+
 import java.math.BigDecimal
 
 data class Item(

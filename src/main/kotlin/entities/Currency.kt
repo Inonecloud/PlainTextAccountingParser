@@ -1,3 +1,5 @@
+package entities
+
 enum class Currency {
     EUR,
     SEK,
